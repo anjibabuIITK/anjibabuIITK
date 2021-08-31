@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finished
 
-### Connect with me:
+<!--### Connect with me:
 <!--
 [<img align="left" alt="anjibabuIITK | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/anjibabuIITK)-->
 <!--[<img align="left" alt="anjibabuIITK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/anjibabu480)-->
