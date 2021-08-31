@@ -1,9 +1,9 @@
-### Hi there, I'm  Rahul - aka [anjibabuIITK](https://github.com/anjibabuIITK) 👋
+### Hi there, I'm  Anji - aka [anjibabuIITK](https://github.com/anjibabuIITK) 👋
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR
-- 🌱 I’m currently learning ... Fortran, Python, bash/shell, Makefile
+- 🌱 I’m currently learning ... Fortran, Python, bash/shell, Makefile, Machine Learning
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finished
@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="anjibabuIITK | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/anjibabuIITK)
-[<img align="left" alt="anjibabuIITK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rahul_818)
-[<img align="left" alt="anjibabuIITK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahul-verma-6a8089121)
-[<img align="left" alt="anjibabuIITK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/_rahul_umrao)
+[<img align="left" alt="anjibabuIITK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/anjibabu480)
+`[<img align="left" alt="anjibabuIITK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahul-verma-6a8089121)`
+`[<img align="left" alt="anjibabuIITK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/_rahul_umrao)`
 
 <br />
 
