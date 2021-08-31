@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am half finished
 
 ### Connect with me:
-
+<!--
 [<img align="left" alt="anjibabuIITK | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/anjibabuIITK)
 [<img align="left" alt="anjibabuIITK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/anjibabu480)
 <!--[<img align="left" alt="anjibabuIITK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahul-verma-6a8089121)-->
 <!--[<img align="left" alt="anjibabuIITK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/_rahul_umrao)-->
-
+-->
 <br />
 
 ### Stats :
