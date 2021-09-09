@@ -1,6 +1,5 @@
 ### Hi there, I'm  Anji - aka [anjibabuIITK](https://github.com/anjibabuIITK) 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR
 - 🌱 I’m currently learning ... Fortran, Python, bash/shell, Makefile, Machine Learning
