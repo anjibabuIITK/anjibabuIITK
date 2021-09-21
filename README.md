@@ -8,7 +8,7 @@
 
 ### Publications:
 
-1. Boosting the Conformational Sampling by Combining Replica Exchange with Solute Tempering and Well-Sliced Metadynamics
+1. [**Boosting the Conformational Sampling by Combining Replica Exchange with Solute Tempering and Well-Sliced Metadynamics**](https://arxiv.org/abs/2108.13641)
 <br />
 
 ### Stats :
