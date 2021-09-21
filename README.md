@@ -13,7 +13,7 @@
       user to create a master password: a single, strong password  which  grants 
       the user access to their entire password database. Keys protects the user's
       data using the AES-256-cbc encryption with salted format.
-     [**Rbi**](https://github.com/anjibabuIITK/RECYCLEBIN_for_Linux/releases/tag/v1.0)
+     [**Rbin**](https://github.com/anjibabuIITK/RECYCLEBIN_for_Linux/releases/tag/v1.0)
      
       RBIN is a simple and user-friendly package to act as a recycle-bin for Linux. 
       rbin can be a safe alternative for a rm command. Rbin moves the given files to
