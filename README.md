@@ -1,17 +1,33 @@
 ### Hi there, I'm  Anji - aka [anjibabuIITK](https://github.com/anjibabuIITK) 👋
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA.
+
 - 🌱 **Programming Skills**
 
       Fortran, Python, bash/shell, Makefile, Machine Learning
-      
+- 🌱**Packages Written**
+      **[Keys]**(https://github.com/anjibabuIITK/Keys-The_Password_Manager/releases/tag/1.0)
+     
+      "Keys" is a password manager to help a user to store and organize passwords.
+      Keys manages and stores the passwords encrypted and locally, requiring the 
+      user to create a master password: a single, strong password  which  grants 
+      the user access to their entire password database. Keys protects the user's
+      data using the AES-256-cbc encryption with salted format.
+     **[Rbi]**(https://github.com/anjibabuIITK/RECYCLEBIN_for_Linux/releases/tag/v1.0)
+     
+      RBIN is a simple and user-friendly package to act as a recycle-bin for Linux. 
+      rbin can be a safe alternative for a rm command. Rbin moves the given files to
+      recycle bin and restores them to their original location. It has the flexibility
+      of setup the auto cleanup feature for every 30days. Users can control over auto-clean
+      setting to off or change the period of days to clean etc when required.
+           
 - 💬 **Research Interest** 
    
-      Molecular Dynamics, Biophysics, Computational Biology, Developement of enhanced sampling methods and Machine learning.
-       
+      Molecular Dynamics, Biophysics, Computational Biology, 
+      Developement of enhanced sampling methods and Machine learning.
 - ⚡**Status of Ph.D.**
  
-       Expected to submit thesis in 6 months
+       Expected to submit thesis in next 6 months
 
 ### Publications:
 
@@ -37,3 +53,4 @@
 <br />
 
 ----
+      **ANJI BABU**
