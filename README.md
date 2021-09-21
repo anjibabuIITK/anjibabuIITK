@@ -6,10 +6,9 @@
 - 💬 Research Interest      ---> Molecular Dynamics, Biophysics, Computational Biology, Developement of enhanced sampling methods and Machine learning.
 - ⚡ Status of Ph.D.         ---> Expected to submit thesis in 6 months
 
-### Connect with me:
+### Publications:
 
-[<img align="left" alt="anjibabuIITK | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/anjibabuIITK)
-
+1. Boosting the Conformational Sampling by Combining Replica Exchange with Solute Tempering and Well-Sliced Metadynamics
 <br />
 
 ### Stats :
