@@ -6,8 +6,9 @@
 
       Fortran, Python, bash/shell, Makefile, Machine Learning
 - 🌱**Packages Written**
-- 
-      [**Keys**](https://github.com/anjibabuIITK/Keys-The_Password_Manager/releases/tag/1.0)
+
+      I have written Keys and Rbin packages in Bash/shell
+     [**Keys**](https://github.com/anjibabuIITK/Keys-The_Password_Manager/releases/tag/1.0)
      
       "Keys" is a password manager to help a user to store and organize passwords.
       Keys manages and stores the passwords encrypted and locally, requiring the 
