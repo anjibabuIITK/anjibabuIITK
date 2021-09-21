@@ -9,6 +9,7 @@
 ### Publications:
 
 1. [**Boosting the Conformational Sampling by Combining Replica Exchange with Solute Tempering and Well-Sliced Metadynamics**](https://arxiv.org/abs/2108.13641)
+2. [**Free energy calculations of alanine tripeptide in explicit water using temperature accelerated sliced sampling**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jd_jV80AAAAJ&citation_for_view=jd_jV80AAAAJ:u5HHmVD_uO8C)
 <br />
 
 ### Stats :
