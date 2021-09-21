@@ -1,10 +1,17 @@
 ### Hi there, I'm  Anji - aka [anjibabuIITK](https://github.com/anjibabuIITK) 👋
 
-
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA.
-- 🌱 I’m currently learning ---> Fortran, Python, bash/shell, Makefile, Machine Learning
-- 💬 Research Interest      ---> Molecular Dynamics, Biophysics, Computational Biology, Developement of enhanced sampling methods and Machine learning.
-- ⚡ Status of Ph.D.         ---> Expected to submit thesis in 6 months
+- 🌱 **Programming Skills**
+
+      Fortran, Python, bash/shell, Makefile, Machine Learning
+      
+- 💬 **Research Interest** 
+   
+      Molecular Dynamics, Biophysics, Computational Biology, Developement of enhanced sampling methods and Machine learning.
+       
+- ⚡**Status of Ph.D.**
+ 
+       Expected to submit thesis in 6 months
 
 ### Publications:
 
