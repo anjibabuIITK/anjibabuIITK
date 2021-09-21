@@ -2,10 +2,9 @@
 
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR
-- 🌱 I’m currently learning ... Fortran, Python, bash/shell, Makefile, Machine Learning
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half finished
+- 🌱 I’m currently learning ---> Fortran, Python, bash/shell, Makefile, Machine Learning
+- 💬 Research Interest      ---> Molecular Dynamics, Biophysics, Computational Biology, Developement of enhanced sampling methods.
+- ⚡ Status of Ph.D.         ---> Expected to submit thesis in 6 months
 
 ### Connect with me:
 
