@@ -25,8 +25,11 @@
            
 - 💬 **Research Interest** 
    
-      Molecular Dynamics, Biophysics, Computational Biology, CV discovery using neural networks or deep learning,
-      Developement of enhanced sampling methods and Machine learning.
+       - Molecular Dynamics
+       - Computational Biology
+       - CV discovery using neural networks or deep learning
+       - Developement of enhanced sampling methods and Machine learning.
+       
 - ⚡**Status of Ph.D.**
  
        Expected to submit thesis in next 6 months
