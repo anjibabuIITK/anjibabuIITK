@@ -1,4 +1,4 @@
-### <h1 align="center">Material Bread</h1>
+### <h1 align="center">ANJI BABU KAPAKAYALA</h1>
 
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA.
@@ -58,5 +58,4 @@
 <br />
 <br />
 
-----
-      **ANJI BABU**
+
