@@ -1,4 +1,4 @@
-### Hi there, I'm  Anji - aka [anjibabuIITK](https://github.com/anjibabuIITK) 👋
+###~~~~~~~~ Anji Babu Kapakayala
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA.
 
