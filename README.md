@@ -3,6 +3,17 @@
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA.
 
+- 💬 **Research Interest** 
+   
+       - Molecular Dynamics
+       - Computational Biology
+       - CV discovery using neural networks or deep learning
+       - Developement of enhanced sampling methods and Machine learning.
+       
+- ⚡**Status of Ph.D.**
+ 
+       Expected to submit thesis in next 3 months
+
 - 🌱 **Programming Skills**
 
       Fortran, Python, bash/shell, Makefile, Machine Learning, MPI Programming
@@ -24,17 +35,6 @@
       of setup the auto cleanup feature for every 30days. Users can control over auto-clean
       setting to off or change the period of days to clean etc when required.
            
-- 💬 **Research Interest** 
-   
-       - Molecular Dynamics
-       - Computational Biology
-       - CV discovery using neural networks or deep learning
-       - Developement of enhanced sampling methods and Machine learning.
-       
-- ⚡**Status of Ph.D.**
- 
-       Expected to submit thesis in next 3 months
-
 ### Publications:
 
 1. [**Boosting the Conformational Sampling by Combining Replica Exchange with Solute Tempering and Well-Sliced Metadynamics**](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26752)
