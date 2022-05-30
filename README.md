@@ -1,4 +1,4 @@
-###~~~~~~~~ Anji Babu Kapakayala
+###                                Anji Babu Kapakayala
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA.
 
