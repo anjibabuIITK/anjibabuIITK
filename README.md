@@ -4,7 +4,7 @@
 
 - 🌱 **Programming Skills**
 
-      Fortran, Python, bash/shell, Makefile, Machine Learning
+      Fortran, Python, bash/shell, Makefile, Machine Learning, MPI Programming
 - 🌱**Packages Written (Favourite)**
 
       I have written Keys and Rbin packages in Bash/shell
@@ -32,7 +32,7 @@
        
 - ⚡**Status of Ph.D.**
  
-       Expected to submit thesis in next 6 months
+       Expected to submit thesis in next 3 months
 
 ### Publications:
 
