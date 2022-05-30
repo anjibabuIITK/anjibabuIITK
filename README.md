@@ -1,5 +1,4 @@
-###                                Anji Babu Kapakayala
-<div style="text-align: center"> ### your-text-here </div>
+### <div style="text-align: center"> Anji Babu Kapakayala </div>
 
 
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA.
