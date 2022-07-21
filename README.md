@@ -12,7 +12,7 @@
        
 - ⚡**Status of Ph.D.**
  
-       Expected to submit thesis in next 3 months
+       Expected to submit thesis in next 1 months
 
 - 🌱 **Programming Skills**
 
