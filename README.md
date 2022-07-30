@@ -1,22 +1,28 @@
 ### <h1 align="center">ANJI BABU KAPAKAYALA</h1>
 
 
-- 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA.
+- 🔭 I’m a joint Ph.D. Scholar between IIT Kanpur, India and Curtin University, Australia.
 
 - 💬 **Research Interest** 
    
-       - Molecular Dynamics
-       - Computational Biology
+       - Molecular Dynamics, 
+       - Computational Biology Physics
        - CV discovery using neural networks or deep learning
        - Developement of enhanced sampling methods and Machine learning.
+       - Software developement 
        
 - ⚡**Status of Ph.D.**
  
-       Expected to submit thesis in next 1 months
+       Expected to submit thesis in next 2 months
 
 - 🌱 **Programming Skills**
 
       Fortran, Python, bash/shell, Makefile, Machine Learning, MPI Programming
+      
+- 🌱 **Developer Tools**
+
+      Git, GitHub, Docker-container, Linux Server administration
+      
 - 🌱**Packages Written (Favourite)**
 
       I have written Keys and Rbin packages in Bash/shell
