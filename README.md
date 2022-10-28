@@ -13,7 +13,7 @@
        
 - ⚡**Status of Ph.D.**
  
-       Expected to submit thesis in next 2 Days
+       Submitted the thesis and Joined as Senior Solutions Archetect 1 in Schrodinger.
 
 - 🌱 **Programming Skills**
 
